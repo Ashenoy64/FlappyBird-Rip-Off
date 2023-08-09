@@ -1,0 +1,3 @@
+# FlappyBird Rip Off - Unity Game Project
+
+FlappyBird Rip Off is a game project created with Unity, inspired by the popular Flappy Bird game. The project was developed following a tutorial available [Here](https://youtu.be/XtQMytORBmM), providing valuable insights into game development using Unity. Dive into this project to learn game mechanics, physics, and Unity's features while creating your version of the classic Flappy Bird gameplay.
